@@ -1,0 +1,49 @@
+.FullMovie{
+    background-color: #ffc0cb;
+    height: 10%;
+    width: auto;
+    padding: 5px;
+    position: relative;
+}
+
+.MovieData{
+    width: 50%;
+    background-color:#ffc0cb;
+    position: relative;
+    left: 25%;
+}
+
+.Desc{
+    font-weight: 500;
+}
+
+.Rating{
+    font-weight: 500;
+}
+
+.Title{
+    
+    font-weight: 800;
+    font-size: larger;
+}
+
+.Image{
+    height: 380px;
+    width: auto;
+}
+
+.Button-Back{
+    color: #733236;
+    background-color: #e4a199;
+    width: 100px;
+    height: 30px;
+    font-weight: 900;
+    border: none;
+    outline: none;
+}
+
+.Button-Back:hover, .Button-Back:focus{
+    transform: scale(1.06);
+    outline: none;
+}
+

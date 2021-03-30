@@ -1,0 +1,47 @@
+.Auth{
+    
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+.Form{
+    background-color: #fbded7;
+    position: absolute;
+    width: 30%;
+    left: 34.3%;
+    margin-top: 24px;
+    padding: 10px;
+    height: 40%;
+}
+
+
+.Button-Switch{
+    margin-top: 240px;
+    background-color: #ecb7bf;
+    border: none;
+    color: green;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    width: 200px;
+    font-weight: 800;
+}
+
+.Button-Submit{
+    margin-top: 20px;
+    background-color: #ecb7bf;
+    border: none;
+    color: red;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    width: 200px;
+    font-weight: 800;
+}
+
+.Button-Submit:hover,
+.Button-Switch:hover{
+    background-color: #ce897b;
+    
+}

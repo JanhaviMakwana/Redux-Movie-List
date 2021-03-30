@@ -1,0 +1,9 @@
+.Movies{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    padding: 10px 30px 10px 30px;
+    background-color: #296d98;
+}
